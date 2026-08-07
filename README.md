@@ -23,8 +23,7 @@ Meeting recordings [playlist](https://www.youtube.com/playlist?list=PLmfkUJc39uM
 | 2026-01-27 | secure channel establishment | Relay Attacks in Intra-handshake Attestation and Proposal | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_RelayAttacksProposal_20260127.pdf)</li></ul> |
 | 2026-01-13 | secure channel establishment | Relay Attacks in Intra-handshake Attestation | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_RelayAttacks_20260113.pdf)</li></ul> |
 | 2025-12-16 | secure channel establishment | Binding Properties for Attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Binding_Properties_20251216.pdf)</li></ul> |
-| 2025-12-02 | secure channel establishment | Proposal: Security Analysis of Attestation for
-Confidential AI Agent and Agentic AI | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Open_Questions_20251202.pdf)</li></ul> |
+| 2025-12-02 | secure channel establishment | Proposal: Security Analysis of Attestation for Confidential AI Agent and Agentic AI | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Open_Questions_20251202.pdf)</li></ul> |
 | 2025-11-18 | emerging standards | Trustworthy Workload Identity with RATS | Mark Novak (@TheBankster) | <ul><li>[slides](materials/MarkNovak_TWI_and_RATS.pdf)</li></ul> |
 | 2025-10-21 | Information & data models for attestation | CoRIM Modeling, Evolution, and Revocation | Dhawal Kumar (@dkumar-nv) | <ul><li>[slides](materials/DhawalKumar_CORIM_Modeling_Revocation.pdf)</li></ul> |
 | 2025-10-07 | secure channel establishment | Comprehensive Formal Analysis of Attested TLS | Muhammad Usama Sardar (@muhammad-usama-sardar) | <ul><li>[slides](materials/MuhammadUsamaSardar_Comprehensive_AttestedTLS_20251007.pdf)</li></ul> |
